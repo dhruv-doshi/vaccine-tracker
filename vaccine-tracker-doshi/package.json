@@ -1,0 +1,17 @@
+{
+  "name": "vaccine-tracker-doshi",
+  "version": "1.0.0",
+  "description": "A node js program to check for vaccine availability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Doshi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "prompts": "^2.4.1"
+  }
+}
